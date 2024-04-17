@@ -1,6 +1,7 @@
 import os
-
+import pandas as pd
 import serpapi
+import numpy as np
 
 # Create a list that orders the results by price
 
@@ -47,14 +48,14 @@ client = serpapi.Client(api_key=google_api)
 results = client.search({
   'engine': 'google_shopping',
   'q': 'phone',
-  'num': 2
+  'num': 100,
 })
 
 shopping_results = results['shopping_results']
+df = pd.DataFrame.from_records(shopping_results) 
+file = np.savetxt('scraping.txt', df, delimiter=',', fmt='%s')
 
-print(type(shopping_results))
 
-json_list = []
 '''
 for product in results['shopping_results']:
   product_dict = {

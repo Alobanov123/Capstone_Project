@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import base64
 from io import BytesIO
 
-df = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/solar.csv")
+df = pd.read_csv("https://replit.com/@alobanov/CapstoneProject#scraping.txt")
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.layout = dbc.Container([
