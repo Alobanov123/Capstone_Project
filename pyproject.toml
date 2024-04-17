@@ -13,6 +13,10 @@ requests = "^2.31.0"
 beautifulsoup4 = "^4.12.3"
 serpapi = "^0.1.5"
 python-dotenv = "^1.0.1"
+dash = "^2.16.1"
+dash-ag-grid = "^31.0.1"
+dash-bootstrap-components = "^1.5.0"
+plotly = "^5.20.0"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md

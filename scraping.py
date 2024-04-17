@@ -36,6 +36,9 @@ def create_dict(results):
     price_dict[product['title']] = price
   return(price_dict)
 
+
+# user_input = input("Enter a search term: ")
+
 # From youtube video: scraping shopping tab using google api
 
 google_api = os.environ['google_api']
@@ -43,9 +46,33 @@ client = serpapi.Client(api_key=google_api)
 
 results = client.search({
   'engine': 'google_shopping',
-  'q': 'headphones',
+  'q': 'phone',
+  'num': 2
 })
 
-print(find_min_product(results, price_dict))
+shopping_results = results['shopping_results']
 
+print(type(shopping_results))
+
+json_list = []
+'''
+for product in results['shopping_results']:
+  product_dict = {
+    'title': product['title'],
+    'source': product['source'],
+    'price': product['extracted_price'],    
+    'image': product['thumbnail'],
+    'rating': product['rating'],
+    'reviews': product['reviews'],
+    'store_rating': product['store_rating'],
+    'store_reviews': product['store_reviews'],
+    'second_hand_condition': product['second_hand_condition'],
+    'link': product['link'],
+    'product_comparisons': product['serpapi_product_api_comparisons'],
+    }
+  json_list.append(product_dict)
+
+# print(json_list)
+
+'''
 
