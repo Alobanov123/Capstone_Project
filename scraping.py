@@ -53,7 +53,7 @@ results = client.search({
 
 shopping_results = results['shopping_results']
 df = pd.DataFrame.from_records(shopping_results) 
-file = np.savetxt('scraping.txt', df, delimiter=',', fmt='%s')
+file = np.savetxt('scraping.csv', df, delimiter=',', fmt='%s')
 
 
 '''
