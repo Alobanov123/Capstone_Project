@@ -52,8 +52,6 @@ results = client.search({
   'num': '100',
 })
 
-print(type(results['shopping_results'][0]['source']))
-
 # A list of all wanted attributes
 arg_list = ['position',
             'title', 

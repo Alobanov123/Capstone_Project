@@ -11,12 +11,21 @@ import matplotlib.pyplot as plt
 import base64
 from io import BytesIO
 
-df = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/solar.csv")
+df = pd.read_csv('https://replit.com/@alobanov/CapstoneProject#scraping.csv')
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.layout = dbc.Container([
     html.H1("Budgeting and Shopping Tool", className='mb-2', style={'textAlign':'center'}),
 
+    dbc.Row([
+      dcc.Input(
+          id='query',
+          type= 'text',
+          placeholder="Enter a product you would like to search",
+          required=True,
+      )
+    ]),
+  
     dbc.Row([
         dbc.Col([
             dcc.Dropdown(
@@ -51,11 +60,16 @@ app.layout = dbc.Container([
 
 # Create interactivity between dropdown component and graph
 @app.callback(
+    Output(component_id='text', component_property='children'),
+    Input(component_id='text', component_property='value')
+  '''
     Output(component_id='bar-graph-matplotlib', component_property='src'),
     Output('bar-graph-plotly', 'figure'),
     Output('grid', 'defaultColDef'),
     Input('category', 'value'),
+  '''
 )
+
 def plot_data(selected_yaxis):
 
     # Build the matplotlib figure
@@ -90,4 +104,4 @@ def plot_data(selected_yaxis):
 
 
 if __name__ == '__main__':
-   app.run_server(debug=True, host='0.0.0.0', port='8050')
+   app.run(debug=True)

@@ -1,11 +1,11 @@
 # reference https://github.com/plotly/tutorial-code/blob/main/Videos/matplotlib-dashboard.py
-from dash import Dash, html, dcc, Input, Output  
+from dash import Dash, html, dcc, Input, Output  # pip install dash
 import plotly.express as px
-import dash_ag_grid as dag
-import dash_bootstrap_components as dbc  
-import pandas as pd     
+import dash_ag_grid as dag                       # pip install dash-ag-grid
+import dash_bootstrap_components as dbc          # pip install dash-bootstrap-components
+import pandas as pd                              # pip install pandas
 
-import matplotlib     
+import matplotlib                                # pip install matplotlib
 matplotlib.use('agg')
 import matplotlib.pyplot as plt
 import base64
