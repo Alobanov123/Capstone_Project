@@ -1,7 +1,8 @@
 import os
+
+import numpy as np
 import pandas as pd
 import serpapi
-import numpy as np
 
 # Create a list that orders the results by price
 
@@ -48,12 +49,10 @@ client = serpapi.Client(api_key=google_api)
 results = client.search({
   'engine': 'google_shopping',
   'q': 'phone',
-  'num': 100,
+  'num': '100',
 })
 
-shopping_results = results['shopping_results']
-df = pd.DataFrame.from_records(shopping_results) 
-file = np.savetxt('scraping.csv', df, delimiter=',', fmt='%s')
+print(type(results['shopping_results'][0]['source']))
 
 # A list of all wanted attributes
 arg_list = ['position',
@@ -61,6 +60,7 @@ arg_list = ['position',
             'source', 
             'price',
             'extracted_price',
+            'old_price',
             'delivery',
             'thumbnail',
             'rating',
@@ -69,7 +69,7 @@ arg_list = ['position',
             'store_reviews',
             'serp_product_api_comparisons']
 
-# Create a dataframe from the results
+# Create a nested list of all the products wanted attributes
 shopping_results = []
 
 # Iterate through the results
@@ -77,12 +77,27 @@ for product in results['shopping_results']:
   p_list = []
   # Append the wanted attributes to list p_list
   for arg in arg_list:
-    # If the attribute is not in the product dictionary, add NA to the list
-    if product[arg] == None:
-      p_list.append(np.nan)
-    else:
+    # Removes commas from string objects
+    # Ignores if the item does not have the attribute
+    try:
+      if isinstance(product[arg], str):
+        product[arg] = product[arg].replace(',', '')
+
+      # Removes .com from source to make data more uniform
+      if arg == 'source':
+        product[arg] = product[arg].replace('.com', '')
       p_list.append(product[arg])
+    #  If the attribute is not in the product dictionary, add NA to the list
+    except KeyError:
+      p_list.append('NA')
+  
   # Append the list p_list to the list shopping_results that contains all the products
   shopping_results.append(p_list)
+
+# Create a data frame from the nested list and add it to a csv file
+df = pd.DataFrame(shopping_results) 
+
+header_str = ','.join(arg_list)
+file = np.savetxt('scraping.csv', df, delimiter = ',', fmt = '%s', header = header_str)
 
 
