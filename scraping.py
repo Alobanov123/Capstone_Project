@@ -55,25 +55,34 @@ shopping_results = results['shopping_results']
 df = pd.DataFrame.from_records(shopping_results) 
 file = np.savetxt('scraping.csv', df, delimiter=',', fmt='%s')
 
+# A list of all wanted attributes
+arg_list = ['position',
+            'title', 
+            'source', 
+            'price',
+            'extracted_price',
+            'delivery',
+            'thumbnail',
+            'rating',
+            'reviews',
+            'store_rating',
+            'store_reviews',
+            'serp_product_api_comparisons']
 
-'''
+# Create a dataframe from the results
+shopping_results = []
+
+# Iterate through the results
 for product in results['shopping_results']:
-  product_dict = {
-    'title': product['title'],
-    'source': product['source'],
-    'price': product['extracted_price'],    
-    'image': product['thumbnail'],
-    'rating': product['rating'],
-    'reviews': product['reviews'],
-    'store_rating': product['store_rating'],
-    'store_reviews': product['store_reviews'],
-    'second_hand_condition': product['second_hand_condition'],
-    'link': product['link'],
-    'product_comparisons': product['serpapi_product_api_comparisons'],
-    }
-  json_list.append(product_dict)
+  p_list = []
+  # Append the wanted attributes to list p_list
+  for arg in arg_list:
+    # If the attribute is not in the product dictionary, add NA to the list
+    if product[arg] == None:
+      p_list.append(np.nan)
+    else:
+      p_list.append(product[arg])
+  # Append the list p_list to the list shopping_results that contains all the products
+  shopping_results.append(p_list)
 
-# print(json_list)
-
-'''
 
