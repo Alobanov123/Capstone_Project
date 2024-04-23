@@ -15,7 +15,7 @@ df = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/solar
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.layout = dbc.Container([
-    html.H1("Interactive Matplotlib with Dash", className='mb-2', style={'textAlign':'center'}),
+    html.H1("Our template", className='mb-2', style={'textAlign':'center'}),
 
     dbc.Row([
         dbc.Col([
@@ -23,7 +23,16 @@ app.layout = dbc.Container([
                 id='category',
                 value='Number of Solar Plants',
                 clearable=False,
-                options=df.columns[1:])
+                options=[{'label': col, 'value': col} for col in df.columns[1:]]
+            )
+        ], width=4),
+        dbc.Col([
+            dcc.Input(
+                id='input-textbox',
+                type='text',
+                placeholder='Enter value...',
+                debounce=True,
+            ),
         ], width=4)
     ]),
 
@@ -49,6 +58,17 @@ app.layout = dbc.Container([
 
 ])
 
+# Callback to store the text input value in the global variable
+@app.callback(
+    Output('input-textbox', 'value'),
+    [Input('input-textbox', 'value')]
+)
+def store_text_input_value(value):
+    global global_text_input
+    global_text_input = value
+
+    # Return None to prevent the input box from being updated visually
+    return None
 # Create interactivity between dropdown component and graph
 @app.callback(
     Output(component_id='bar-graph-matplotlib', component_property='src'),
@@ -60,7 +80,7 @@ def plot_data(selected_yaxis):
 
     # Build the matplotlib figure
     fig = plt.figure(figsize=(14, 5))
-    plt.bar(df['State'], df[selected_yaxis])
+    plt.plot(df['State'], df[selected_yaxis])
     plt.ylabel(selected_yaxis)
     plt.xticks(rotation=30)
 
@@ -72,7 +92,7 @@ def plot_data(selected_yaxis):
     fig_bar_matplotlib = f'data:image/png;base64,{fig_data}'
 
     # Build the Plotly figure
-    fig_bar_plotly = px.bar(df, x='State', y=selected_yaxis).update_xaxes(tickangle=330)
+    fig_bar_plotly = px.line(df, x='State', y=selected_yaxis).update_xaxes(tickangle=330)
 
     my_cellStyle = {
         "styleConditions": [

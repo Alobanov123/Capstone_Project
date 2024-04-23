@@ -1,4 +1,6 @@
 # reference https://github.com/plotly/tutorial-code/blob/main/Videos/matplotlib-dashboard.py
+import scraping as scrap
+
 from dash import Dash, html, dcc, Input, Output  
 import plotly.express as px
 import dash_ag_grid as dag
@@ -11,18 +13,19 @@ import matplotlib.pyplot as plt
 import base64
 from io import BytesIO
 
-df = pd.read_csv('https://replit.com/@alobanov/CapstoneProject#scraping.csv')
+df = pd.read_csv('scraping.csv')
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.layout = dbc.Container([
     html.H1("Budgeting and Shopping Tool", className='mb-2', style={'textAlign':'center'}),
-
+  
     dbc.Row([
       dcc.Input(
           id='query',
           type= 'text',
           placeholder="Enter a product you would like to search",
           required=True,
+          debounce=True
       )
     ]),
   
@@ -30,9 +33,10 @@ app.layout = dbc.Container([
         dbc.Col([
             dcc.Dropdown(
                 id='category',
-                value='Price',
+                value='price',
                 clearable=False,
-                options=df.columns[1:])
+                options=[{'label': df.columns[i], 'value': df.columns[i]} for i in [3, 8]]
+            )
         ], width=4)
     ]),
 
@@ -57,24 +61,28 @@ app.layout = dbc.Container([
     ], className='mt-4'),
 
 ])
+# Get the user input and search the data
+@app.callback(
+  Input(component_id='query', component_property='value')
+)
+
+def search(query):
+  
+
 
 # Create interactivity between dropdown component and graph
 @app.callback(
-    Output(component_id='text', component_property='children'),
-    Input(component_id='text', component_property='value')
-  '''
-    Output(component_id='bar-graph-matplotlib', component_property='src'),
-    Output('bar-graph-plotly', 'figure'),
-    Output('grid', 'defaultColDef'),
-    Input('category', 'value'),
-  '''
+  Output(component_id='bar-graph-matplotlib', component_property='src'),
+  Output('bar-graph-plotly', 'figure'),
+  Output('grid', 'defaultColDef'),
+  Input('category', 'value'),
 )
 
 def plot_data(selected_yaxis):
 
     # Build the matplotlib figure
     fig = plt.figure(figsize=(14, 5))
-    plt.bar(df['Item'], df[selected_yaxis])
+    plt.plot(df['Item'], df[selected_yaxis])
     plt.ylabel(selected_yaxis)
     plt.xticks(rotation=30)
 
@@ -86,7 +94,7 @@ def plot_data(selected_yaxis):
     fig_bar_matplotlib = f'data:image/png;base64,{fig_data}'
 
     # Build the Plotly figure
-    fig_bar_plotly = px.bar(df, x='Item', y=selected_yaxis).update_xaxes(tickangle=330)
+    fig_bar_plotly = px.line(df, x='Item', y=selected_yaxis).update_xaxes(tickangle=330)
 
     my_cellStyle = {
         "styleConditions": [

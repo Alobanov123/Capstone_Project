@@ -64,8 +64,7 @@ arg_list = ['position',
             'rating',
             'reviews',
             'store_rating',
-            'store_reviews',
-            'serp_product_api_comparisons']
+            'store_reviews']
 
 # Create a nested list of all the products wanted attributes
 shopping_results = []
@@ -97,5 +96,3 @@ df = pd.DataFrame(shopping_results)
 
 header_str = ','.join(arg_list)
 file = np.savetxt('scraping.csv', df, delimiter = ',', fmt = '%s', header = header_str)
-
-
