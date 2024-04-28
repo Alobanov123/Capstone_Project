@@ -1,101 +1,101 @@
-# position,title,source,price,extracted_price,old_price,delivery,thumbnail,rating,reviews,store_rating,store_reviews
-1,Samsung STSAS134DCPWP Straight Talk Galaxy A03s 32GB Black - Prepaid Smartphone,Walmart,$39.88,39.88,NA,12.4 mi · In stock · In‑store pickup · Free 90-day returns,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT-sgt8pdqYwRRZB0PbmJh9gjTAju82qCK0Xwme-GAjKkXcLNi0o_D08-F7AYzBKfGifwreAm5EZQ&usqp=CAE,3.9,4537,4.5,7
-2,Nokia 2760 Flip 4GB Tracfone Prepaid Feature Phone Black,eBay - tracfonewireless,$19.99,19.99,NA,Free delivery by Mon Apr 29,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSvkeKUuB6QcfFRBJ8hOeyJ9ZUiWF-PgyuxHa_CWwmFN98qYpHNr4XibNlc0ExRIzVefcMgI-I&usqp=CAE,4.0,562,NA,NA
-3,Apple iPhone 13 - 128 GB - Midnight - Verizon,Apple,$0.00,0.0,NA,Free delivery & Free 14-day returns,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSb6UqxmJSpVKURpSnhg7fnrlsSEzrGO8OAg2f6HSdokscJyaYLUi9WIZj9CCADl8CKjVwZVk0&usqp=CAE,4.7,38958,4.6,6500
-4,Samsung Galaxy A14 - 64 GB - Black - Unlocked,Amazon,$190.99,190.99,NA,Free delivery,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQP-Osdls-nbN2Dhqc_fH1_s58_6015j3kHXrrpAmOewNpW0rhqfrs9Iz_A0R7fbI64DX_V2iM&usqp=CAE,4.2,10022,4.5,4900
-5,Motorola Moto G Stylus (2023) 128GB Midnight Blue - Cricket Wireless,Cricket Wireless,$0.00,0.0,NA,NA,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTir1V3YRLENOQVhH_qQV_vQg5j2v4UbjDaZ11xVuqPH_PGb43AwnQWwmI0VyozprRBZ9gs5YA&usqp=CAE,4.0,2084,3.7,32
-6,Sudroid Mini Smartphonechild Phone SOYES The World's Smallest Cell Phone 2.5 ...,electroeshop,$62.95,62.95,NA,Free delivery,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTZc4v68C_F3OZnHUamAdtdzZHPnymp5iTpCb22z1wU2_QY4A_wSA5lJh2C06rKc0Hd2fnqku8&usqp=CAE,NA,NA,NA,NA
-7,Samsung Galaxy S23 FE - 128 GB - Purple - Unlocked,Best Buy,$599.99,599.99,NA,8.2 mi · In stock · Free 15-day returns,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSJHpAOvYn45MfOY6W16BMhRcZ5ur0nYYikEt4ss_AJKzPEL238FiViKg8KR501R6ZTjsUc3wBi&usqp=CAE,4.5,4682,4.5,797
-8,Apple iPhone 14 - 128 GB - Midnight - T-Mobile,T-Mobile,$0.00,0.0,NA,3.7 mi · Limited stock,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcC8cTXb1w_JnnRWq0wpNsuy8KPqRmqKOc_QqzAYoTi7iDOOF10BFVKQUTNckk_xrwaAxTc3gNyg&usqp=CAE,4.5,18716,NA,NA
-9,Samsung Galaxy S21 FE 5G - 128 GB - Graphite - Unlocked,Amazon - Seller,$199.99,199.99,NA,Free delivery,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRzjG2E93D50qDxyXuFjes_7v8wsE7qV0XyDre-MjOzBE5OiBbXIoCcifJ-nO0u1kTmA3yIe49E&usqp=CAE,4.3,9734,NA,NA
-10,Apple iPhone 12 - 128 GB - Blue - Unlocked,Target,$679.99,679.99,NA,10.5 mi · In stock · Curbside · Free 90-day returns,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQG_c61-ZSH1dLu7VgXvTJE7nFcxQ-MON7fwLTkFpbQB05I7RnD4ln3oVEETA&usqp=CAE,4.5,33891,4.6,1100
-11,Motorola Razr | 2023 | Unlocked | Made for US 8/128 | 32MP Camera | Sage Green ...,ElectronicsForce,$419.99,419.99,NA,Free delivery by Fri Apr 26,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8-Z9pM1Ye_nCgqY62ygxjMoMCw_utgHQ1-KmVadupHQsbbXES1-2IDVTBLyrXrMQifz02nVVw&usqp=CAE,4.1,342,4.6,208
-12,Apple iPhone 12 Pro - 128 GB - Graphite - AT&T,Back Market,$338.00,338.0,NA,Delivery by Wed May 1,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDCpVuD3zpW-q2ywH2t2eH5qPTPJR8_ib8W2zI9MbtFobfnv9yFC9z8zN7Fr98EIiR7GPj5GbT&usqp=CAE,4.6,10913,4.6,12700
-13,Motorola Edge - 256 GB - Solar Black - Unlocked,Cell2Get,$242.99,242.99,NA,Free delivery by Wed May 1,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRL1wKBIbWB5TmZbJYMY-tVV0kCCBRF8lO4Q4kQJNMoFpey7T5xpXEDMVZRmW_FurYkIK-k8_J6&usqp=CAE,3.9,687,4.5,252
-14,Apple iPhone 11 - 64 GB - Green - Unlocked - CDMA/GSM,Carolina West Wireless,$8.31,8.31,NA,Free delivery,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSbEaYBHMqQGlSMJu2CYUY5PYIXCKfqdiSs9F68WKCRCObn6KnC1f284NJ_9-gABQUxZeH4768X&usqp=CAE,4.5,75284,NA,NA
-15,Apple iPhone 11 64gb Purple Fully Unlocked Smartphone,Newegg - TRD Digital,$231.89,231.89,NA,Free delivery,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQn8lR73Esvlwc-EzH1V0ES6nFXoJ5TpUwar_LZsKGK62GLd_asmct42HTb9g&usqp=CAE,4.5,75284,NA,NA
-16,Samsung Galaxy Z Flip3 5G,Swappa,$185.00,185.0,NA,Free delivery,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ8Xcjrp0SeNiOOJRh9807icBAnZPG5pyINwdFFXf8RxP5tSglnBS6NYWcGADvkBAsgvpovkoIk&usqp=CAE,4.4,28417,4.9,6000
-17,Samsung Galaxy A15 5G SM-156M/DSN 128GB Factory Unlocked Smartphone - Light Blue,Walmart - Cellmigo,$179.99,179.99,$203.99,Free delivery,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1Fm8IsDM9mR359CsJrVsdskeEeJlDmP-2EBlxllwx9u1NCzJy3UwQycDmMwO-OltPn4SxCQg&usqp=CAE,4.3,2694,NA,NA
-18,Samsung Galaxy A54 - 128 GB - Awesome Graphite - Unlocked,Staples,$496.99,496.99,NA,Free delivery by Fri Apr 26,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSvojxSyOFt3xbHt9xnFmzM-m49yeGgai1kGaQmvh27dgXyR6vm70QFy6eA-2OV5cI4JxuVI_ML&usqp=CAE,4.5,26359,4.1,106
-19,Huawei P40 Lite 128GB Black Unlocked Smartphone - 12 Months Warranty,Reebelo USA,$134.00,134.0,NA,Free delivery by Apr 26 & Free 30-day returns,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTP4bxMT21y1k9geHa8yT0vVbeLRiH51RhNclQWE_lXlrILmZDZ8D3G7pKkuqs&usqp=CAE,3.9,3199,4.8,2600
-20,Apple iPhone 13 - 128 GB - Blue - Verizon,Verizon,$0.00,0.0,NA,12.6 mi · In stock,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTxnVKVgxztaJekDeAUkyIF3vD9hqqiksQxrkmfU5kHKJinbDGCfbSm4z19h7Q&usqp=CAE,4.3,3659,NA,NA
-21,Google Pixel 7 - 128 GB - Lemongrass - Unlocked,Google Store,$599.00,599.0,NA,Free delivery,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTbxskcUFBdNgI3kx-Tpa-StFNyNYCrT-rgpnWHVJ4_LGxrjwiAEZPE_65l3yTku1ztk7uDOQ8_&usqp=CAE,4.2,3931,NA,NA
-22,Apple iPhone 11 Pro - 256 GB - Space Gray - Unlocked,ItsWorthMore,$295.99,295.99,NA,Free delivery by Tue Apr 30,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTHEkRNFeOZjkvlQiUJwiDaI0GP63WtMEdQv2v2EDFEfKtlsvUy9DaOovWoHLgeO9zKE8icLpo&usqp=CAE,4.5,10020,4.5,1500
-23,Apple iPhone 14 Pro Max - 128 GB - Deep Purple - AT&T,AT&T,$0.00,0.0,NA,6.3 mi · In stock,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRzS6zvt5YJYKNx7nzmYtPtEwcnJT3uDKuehv_YjUgMowkL9dW26WhUk2gDs4rReFJR-yPZWN4&usqp=CAE,4.6,15647,4.3,NA
-24,Samsung Galaxy S23 - 128 GB - Cream - Unlocked,Samsung,$699.99,699.99,NA,Free delivery by May 10 & Free 15-day returns,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSZ5gyCJMxISHnyWLAdkNcF4dbfLL2KtlB9TTkCkSLZ04pxcK4cViH48d8829U&usqp=CAE,4.6,29102,4.0,2400
-25,Nothing Technologies Nothing Phone (2) - 512 GB - Dark Grey - Unlocked,ngpstoreusa,$638.00,638.0,NA,Free delivery by Mon Apr 29,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRMc5TG7FaujiAMnkTmKv_-S1cCcGqeE-24OT5GQm1Wo51NSPxY396b1LRkWQ&usqp=CAE,4.7,375,NA,NA
-26,Samsung Galaxy A53 5G Unlocked (128GB) Smartphone - Black,eBay - fonelogics,$219.99,219.99,NA,Free delivery by Wed May 1,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQd60jshJl2YxUF9JYDZ1ZrT5qdpJc09fJ2w6QA6JMUq7uArVXTJCzydHv2OMY&usqp=CAE,4.4,5958,NA,NA
-27,Hiegou Unlocked Smartphone 67inch Cell Phone S22 Ultra 2+16gb HD Full Screen ...,Amazon - Seller,$89.99,89.99,NA,Free delivery,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSIiAEAY3Ugtpcddprs_wJxmkqEVT16_nOa4zLK___uqWhfZlMjxWo4dGfd2lIqqgXxksjwtzRb&usqp=CAE,NA,NA,NA,NA
-28,Apple iPhone 13 - 5G smartphone - dual-SIM 128 GB - Oled display - 6.1 inch ...,NFM,$629.99,629.99,NA,+Shipping,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT-RFOXD_V7EpDTVbgIM1avtxq32gp20m3s4oJYaXkeOiAonnIxhAJ6wkb_FSFU59hklMEIVdgA&usqp=CAE,4.7,38958,4.7,25400
-29,Straight Talk Apple iPhone 11 64gb White - Prepaid Smartphone,Dell Save Shop,$99.99,99.99,NA,Free delivery by Sun Apr 28,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFM0jlflMWXZRuZgLnSrEYrkAAxnuOw_7LCFOYKbmyV4kDLFhYojrZFS8Biw&usqp=CAE,4.5,75284,NA,NA
-30,Punkt MP02 Grey - New Generation 4G LTE Minimalist Mobile Phone,Dumb Wireless,$315.00,315.0,NA,Free delivery by Thu Apr 25,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSHTR33uxWeyzpfpVSq9GafEHrl_HGp-oeoaVMlSYip1FWdKfw3WaevVOe3papmGzcD8VPXfdUF&usqp=CAE,NA,NA,NA,NA
-31,Samsung Galaxy S23+ - 256 GB - Lavender - Unlocked,fusion electronics,$1119.99,1119.99,NA,Free delivery by Tue May 7,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQwWLDkmd29JQH2vd-Cp4cdVT33BuQH1ge8bDAemjVW36RdJJ8fmx2sXaj4voP0eNtLERapqRMJ&usqp=CAE,4.7,13557,4.6,86
-32,Apple iPhone 15 Unlocked Black  Screen,Back Market,$649.95,649.95,NA,Delivery by Wed May 1,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8gmWAVc5CnDs2GjPv2cIYIXQKdZssvjGeLcc_Bu6bPnL6uwIoZ1eiy4A3yu8&usqp=CAE,4.6,8443,4.6,12700
-33,OnePlus Nord N200 5G 64GB Blue Quantum Unlocked,Sam's Club,$189.98,189.98,NA,$75.40 delivery,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTIfzkDaYUjD4gGGt89SubS-GhG7Zkl3iiSqdXj5Zua3pSL67Cv03vY0I2B4A&usqp=CAE,3.9,920,4.5,459
-34,Motorola Moto G Stylus 2023 Unlocked Made for US 4/64GB 50 Mp Camera Midnight ...,Newegg - DemProductSales,$196.99,196.99,NA,Free delivery,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSTa-TeP9roTng7NYoZNe7jnVq7EyhEOqpT3awzSEzY3m-HPM7sRKQ4ZTE03Pec_aOv5yqTNjJJ&usqp=CAE,3.8,899,NA,NA
-35,Razer Phone 2 - Gaming Android Smartphone,eBay - rustys_parts,$32.33,32.33,NA,Free delivery by Tue Apr 30,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTFCgH74YrCYH1hQH4L8QTFsACzdro3mFCyqx_B9i-BDu0d4TFLlv15TUVievZNNHq6HzT_fQNL&usqp=CAE,4.3,154,NA,NA
-36,Walmart Family Mobile Motorola Moto G Pure (2021) 32GB Blue- Prepaid Smartphone,Today Store,$27.39,27.39,NA,Free delivery by Mon Apr 29,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRsMRTrKDmVjYnI5HEUo1kV4ORffEAwLDdDowyXK1_9kJQiUegGn79XPHKFopeeUCBmTdVTTqVw&usqp=CAE,2.8,317,NA,NA
-37,Apple iPhone 15 Plus - 128 GB - Pink - Unlocked,Optimum Mobile,$0.00,0.0,NA,Free delivery by Mon Apr 29,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ3Lt7sj82bn4b9dKjZ6O18fmw6cbbCFYh3nrzCX-6qBuHTZbJxWvNSLjx3-yHuqv1atVkVhMU3&usqp=CAE,4.5,3679,NA,NA
-38,RedMagic 9 Pro,redmagic,$799.00,799.0,NA,Free delivery,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQAZS8uKnq0FRzyBqDZjts4vt3BI2Z046pv7B1jDmY_uzwBTnPoHK2hsbB-BuTUlQc2FCkSCMk&usqp=CAE,4.6,282,NA,NA
-39,Samsung Galaxy A13 32GB Unlocked Android Smartphone,Reebelo USA,$83.99,83.99,NA,Free delivery by Apr 26 & Free 30-day returns,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQUiKRXb02OViplAcfuVWS_SmJW1G35P4HD8GbvMth_kzjvVQUqGFdJLIkZBHwK1qmsT-smH2A&usqp=CAE,4.3,7739,4.8,2600
-40,Samsung Galaxy S24 - 128 GB - Marble Gray - Unlocked,Curacao,$799.99,799.99,NA,Delivery by Tue Apr 30,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBEP30JQUoliMDODWiaHaIP-CUDcnncgNa0wqr7gr6wGkbaByOHGYyndc5qBE&usqp=CAE,4.5,4825,NA,NA
-41,OnePlus 10 Pro,MyWorldPhone,$519.99,519.99,$799.99,Free delivery by Tue Apr 30,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ5kAt8DE6sR9UGzF5Nw1VRynSJ1MCH5M1B_EFEa1uB-1qZk47nwbzhVKF9hg&usqp=CAE,4.3,439,NA,NA
-42,Nokia 2780 Flip TA-1420 GSM / Verizon Unlocked Flip Phone - Red,hmd/en_us,$89.99,89.99,NA,$9.00 delivery · Free 15-day returns,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR21v26OcaivI0B8UEThyWq2tIfcdaxA2cWTPDTYmYbBbzVJqEsckTkui-yBdYojo4aOScGWrk&usqp=CAE,3.9,552,NA,NA
-43,Walmart Family Mobile TCL 30 Z 32GB Black- Prepaid Smartphone [Locked to ...,Walmart,$39.88,39.88,NA,Free delivery & Free 90-day returns,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSmf1torLE8NqCUjBvOQmGBIbtPURAc6y1zXw9ZWqNSXilO9TKVgeqz2BwrvKBorsFvK8ZGpFuK&usqp=CAE,2.8,105,4.5,1700
-44,Simple Mobile Moto G Pure 32GB Blue - Prepaid Smartphone (Locked),Bonanza - Rudra43,$69.29,69.29,NA,$5.00 delivery,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSvYTnrVtAiTgoyBf5poBD2AxwPdg0U5zkAXnFvK483XPwSIosSnA5baOccdCCDg0o6qo5ri_op&usqp=CAE,3.2,602,NA,NA
-45,Motorola Edge - 256 GB - Solar Black - Unlocked - CDMA-GSM,Cellification,$199.99,199.99,NA,Free delivery by Mon Apr 29,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-TdiSCS6wHpWtQetnlD_wmc2dVKj0i-i_x2NoE67e_iPN878&usqp=CAE,3.9,687,NA,NA
-46,Samsung SM-A025MZKFTPA 6.5" Galaxy A02s 3GB 32GB Black Smartphone,Today Store,$34.19,34.19,$62.99,Free delivery by Mon Apr 29,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRullUJOSZOT7LMZMXwpU5b4cfpouf8fpmtcG_NEcjG5UKcYmdH8pUMGB7jvjK54EVGVTMgq321&usqp=CAE,3.9,2047,NA,NA
-47,VIVAHHX Unlocked Android Phones I15 Ultra 5G Cell Phone Android 13 Smart Phones ...,Amazon - Seller,$179.99,179.99,NA,Free delivery,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0Zl3Vqn8234DRanvUB1YTxzXIvV9jn0lc1IK2Kgh6PUDJGJSYDWcacOeOXx55uiv8bWFzg5Zx&usqp=CAE,NA,NA,NA,NA
-48,iPhone 14 128GB Starlight -Apple- MPUR3ZP/A,BecexTech,$903.00,903.0,NA,Free delivery by Wed May 8,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQq16X3iZudqwQZQqZ85uoNSMmMGUSiEpTVF5rRx3Jr-VF0LWXGd1u5gptsb1j-UTUMV_dc4s&usqp=CAE,4.5,18716,4.4,32
-49,Apple iPhone 13 Mini - 128 GB - Midnight,Swappa,$360.00,360.0,NA,Free delivery,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTfvGd1RbEW-ZLEOYVjgqnrZtRE1wNM0Uc1_6Yo50BVw0gxxpa4-GOvb_KTU0j6OrJp2fVA-ujS&usqp=CAE,4.7,6096,4.9,6000
-50,Lively - Jitterbug Smart3 Smartphone for Seniors - Black,Realry,$74.99,74.99,NA,Free delivery,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBkIEbv3SVhsP3qIDAQqAdOifJYQMphGrmjExFZx3e3ytkufXyQ34SFa21cZgoIoNBD_f-sxo&usqp=CAE,4.4,392,NA,NA
-51,Apple iPhone 14 Pro (128GB) - Deep Purple,Back Market,$619.00,619.0,NA,Delivery by Wed May 1,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR35_rdT5LXDgHq02d3do782niUCzRnYYrVY9A_PKz3Riu71pjXEGIl4zXpsXM36qqJZOTdQS0&usqp=CAE,4.7,9869,4.6,12700
-52,Samsung Galaxy A51 A516U 5G 128GB Unlocked Smartphone Great,Priority Wireless,$99.74,99.74,NA,Free delivery by Mon Apr 29,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQxhXBClLOhIoeeGgueM2vdxl0gKpC9H7oDKVAZtC0eM2RVmjC4R_z4Tf1x37CoFAdq8NPBjyY&usqp=CAE,4.6,4181,NA,NA
-53,Asus ROG Phone 6D Ultimate Dual-SIM 512GB ROM + 16GB Ram (GSM | CDMA) Factory ...,Techinn,$784.49,784.49,NA,$11.99 delivery,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR4LqhW3LjwdCk00di5Xr4l73FLJetgUzmkJIAkORICvWnTGyiLO-nIhZH2TSWhJwzn6cHM0C4tQw&usqp=CAE,4.7,263,NA,NA
-54,Samsung Galaxy S22 Certified Re-Newed 128GB in Phantom Black with 24 Monthly ...,Samsung,$0.00,0.0,NA,Free delivery by May 10 & Free 15-day returns,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTezqtpm56S5rOt_siphe6Z7pKF_C6G318yUJzizd3wHJPOU65nA3d1almqkUtJNW6Vp9xIyvE&usqp=CAE,NA,NA,4.0,2400
-55,Vntub Clearance 9 Pro Unlocked Android Smartphone 8GB Rom+1gb RAM Android Phone ...,Walmart - nanchongzhonghanghengdianzishangwuyouxiangongsi,$31.98,31.98,$40.09,$15.00 delivery,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTefhhuq0NIeTNu9n1ZOl50PRekbdDMqgCNgVz3o6s9ueyKyjft&usqp=CAE,NA,NA,NA,NA
-56,iLight Mini Smartphone 11 Pro The World's Smallest 11 Pro Android Mobile Phone ...,eBay - sonikrissi2,$84.43,84.43,NA,Free delivery by Fri May 3,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSHBnFOa4zXUBHTfuTyu0ah22JNdRFKaB6Xw13ETnyV5-GvlRiP6KpdbHnW3c5mmPa8p5MSofSy&usqp=CAE,NA,NA,NA,NA
-57,Apple iPhone 14 128GB in Purple | Smartphone | Verizon (with contract),Verizon,$0.00,0.0,NA,13.3 mi · In stock,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJnH8vTD0IkV6zGSOAVvLc8axSSxCTXHhOc4jmW8ovLQ8v1CiV_m3q1oi4vi8&usqp=CAE,4.5,18716,NA,NA
-58,OnePlus Nord N30 5G,OnePlus Official Store,$299.99,299.99,NA,Free delivery & Free 15-day returns,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRs2wFrDbgUNUYcfev7-48JD-pJjrFbBh1Y54Gr9dxWGlBUJeBj1N414nC6pQ&usqp=CAE,4.6,661,4.5,63
-59,Google Pixel 7 Pro - 128 GB - Snow - Unlocked,Wireless Place,$519.99,519.99,NA,20.3 mi · In stock,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQGBUlMdWjHP3WKJZWeQPApScLYvO0BDQqJJg9xS3S31IyNNdxy_0J-DiCKPek&usqp=CAE,4.4,4571,NA,NA
-60,Apple iPhone 12 mini - 64 GB - Black - T-Mobile,Reebelo USA,$191.00,191.0,NA,Free delivery by Apr 26 & Free 30-day returns,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQPRyPS0xwPxDNqoAqtr2DwU6gU7rf7D5jTmNRtkspQmlVN-qHS&usqp=CAE,4.5,12528,4.8,2600
-61,Apple iPhone 14 128gb Midnight - Unlocked (Renewed),CellularCountry,$623.99,623.99,NA,Delivery by Sat Apr 27,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQHFoBQi3uleKBTZ3GreXAaMYpHk-FtM35Lpx7LNZLNmITJqjX92HSap6BLuKBDf3Bp42ZcJG_XdQ&usqp=CAE,4.5,18716,3.0,16
-62,Cat S22 IP68 16GB 4G LTE GSM Unlocked Rugged Flip Phone - Black,Cellification,$69.99,69.99,NA,Free delivery by Mon Apr 29,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQhPY6bPPypsfTdDqmy_pzsyXi5bCGnynta1Pwf289pEiWHsPhhnmIPz-iaIRbQeXBXpVc1bJY&usqp=CAE,3.7,159,NA,NA
-63,Nokia G50 5G | Android 11 | Unlocked Smartphone | US Version | 4/128GB | 6.82 ...,Amazon,$199.00,199.0,· Was $258.87,Free delivery,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQU2thYbA4SnUZDPHn_HjL-s3s3b0UoYuRjwVRQ-TK-0U_dpQMkOtY4U-FPVpawYnqynAq83GA&usqp=CAE,4.1,334,4.5,4900
-64,Smartphone Poco 12 GB Ram White,Sears,$525.19,525.19,NA,Free delivery,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTRk1h7fdsx22OFChLjSM2Wp57hRzq_FJEE5VW7fckm7TFv7dJJpPHf8-SLuV-ePu16W8L-ePyG&usqp=CAE,4.9,878,NA,NA
-65,Tracfone 6.5 BLU View 5G Smartphone with 1-YrUnlimited Plan Silver Glitter,QVC,$79.98,79.98,$97.00,$5.50 delivery,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOJH5n5b3w0aIT9x0HQ8UDDB_Bq1bC-JBeHLyA5PX3Z-R59fwW1tSi0mmjAAOdn-sCWsP_2EE&usqp=CAE,NA,NA,4.5,2900
-66,Samsung Galaxy Z Fold5 512GB in Blue (Unlocked)(SM-F946UZBEXAA),Samsung,$1919.99,1919.99,NA,Free delivery by May 10 & Free 15-day returns,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQrQ9cEhBKAPp79cQmmJg5JbUxn7icSptElGtn6HIDFsUq1EEu3GXH9_9QqmDxWCSmO13JLdXDB&usqp=CAE,4.5,23319,4.0,2400
-67,Nothing Phone (2A) 5G Dual Sim 256GB ROM 12GB Ram GSM Unlocked - Black,MyWorldPhone,$469.99,469.99,$699.99,Free delivery by Tue Apr 30,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTQXg8mEZmBs4SczvmQn8QiNA4nYdw3aDtsoDEuXP88qbtrIMKeKWDv2SH2HfQ&usqp=CAE,4.5,68,NA,NA
-68,Apple iPhone XR - 64gb - Product Red - AT&T,Unclaimed Baggage,$154.99,154.99,NA,Free delivery by Mon Apr 29,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTnXOMhQqq0oh93a5b1cuFaYBceUXwj47akc9O5Z7qewxr6_LjgA656dQNWowmS4g-ZIa7LUdY&usqp=CAE,4.5,44723,NA,NA
-69,Apple iPhone 15 - 128GB - Black - With Contract and 36 Installment Payments,AT&T,$0.00,0.0,NA,Free delivery est. by May 1,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRRB651f1MZlR2MstlMl4WUcGyRTone3mhPXWtlg_Nh5YVai9xB1J4EIKvBl9E&usqp=CAE,4.6,8443,4.3,NA
-70,Blu Tank II T193 Unlocked GSM Dual-SIM Cell Phone (Black/Blue),WirelessBoss,$22.99,22.99,NA,$3.99 delivery,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT4ihOrwBTrEgUzlGmArCAR_FQ3XWf2dgmZ6FGvSMIEJ_prQwKutWnsKGWV3DB9Qnw5avxNarg&usqp=CAE,4.1,14,NA,NA
-71,TCL 30 Z Unlocked Cellphone With 6.1" HD+ DisplaySmartphone Android 12 32GB+3GB ...,Shein,$93.99,93.99,$99.99,Free delivery by Thu May 9,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQhT9_LXv-rCJFc57jT9QdvaKCtuLL_X7EstnH6z7XRutiNtjKLgv5lAHTTL5Knq-qziI5CXj_9&usqp=CAE,NA,NA,NA,NA
-72,Apple iPhone 12 Pro 128GB (Unlocked) in Pacific Blue G,Gazelle Store,$364.99,364.99,NA,Free delivery by May 7 & Free 30-day returns,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQjU8HEb_yYIKqaSvNW7FZBXddeLDaa5xsnUOJJiHCZHgKOjoKhVDrekokPoGXTN_rcriER4dFA&usqp=CAE,4.6,10913,4.2,5800
-73,Samsung Galaxy A53 A536 128GB Unlocked 5G Smartphone Great,Priority Wireless,$118.74,118.74,NA,Free delivery by Mon Apr 29,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTrMYzpz3vqZ0UY7SojjRQfAaDLzT81oSjLwfH8nBfKCvdfmWaoej9Dhxp3yFvzrW_2rs9_roA&usqp=CAE,4.1,13756,NA,NA
-74,Original ZTE Axon 9 Pro 4G LTE Cell Phone 6GB RAM 64GB ROM Snapdragon 845 Octa ...,DHgate online store,$402.09,402.09,NA,Free delivery,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSK1ly9_boyvVH6GXHcOpAlrKVeMBhw-okHAa7jXvlymUKwoQV0NV1GC6_746qI8QsDhlzRxEzJ&usqp=CAE,NA,NA,NA,NA
-75,Apple iPhone 14 128GB in Midnight | Smartphone | Verizon (with contract),Verizon,$0.00,0.0,NA,Free delivery,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSQ-_4HgveJmK9Rodo4XfCbwrs0LSxc1dXTOAEJrk1Pm95hkIavC5hjSFOr1Sg&usqp=CAE,4.5,18716,NA,NA
-76,Unlocked K24 Ultra 5g Smartphone 256gb 7.3" Dualsim Cell Phone,eBay - gamakoo,$159.59,159.59,NA,Free delivery,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTfOVYj_YVjnaPf6Us6oeDuYp6fyzRrkOK3S-YbFLQlTtAc0u1-bJytHX6E1Bh6stLFjcrC8xoh&usqp=CAE,NA,NA,NA,NA
-77,Apple iPhone 11 64gb Black Unlocked - Black,Micro Center,$249.99,249.99,NA,2.1 mi · In stock · Free 30-day returns,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQvuIHNGn403lgd-nnnqaFHpqIn6eXpogOnnQRN1ALqO6W1A5iUeIGpF7FBD4uokW6P1E9hY8Yh&usqp=CAE,4.3,845,4.8,128
-78,Smartphone Poco M6 Pro 679" Black 512 GB 12 GB Ram,www.coolquarter,$240.70,240.7,NA,$19.74 delivery,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBzM4MHyAqurvwwEZOhxEt4RrZDuN-EikFePnf861dfmP14dbTVvU1M0CpacFiChCeVZLkIPg&usqp=CAE,4.8,459,NA,NA
-79,Walmart Family Mobile Nokia C100 32GB Blue- Prepaid Smartphone [Locked to ...,Top Sports,$24.59,24.59,NA,Free delivery by Wed May 1,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRTSaX8wM1qE6L12q3EDJqsVSkZTrjsat5IPFlgiv5FI5Ty3-qiuyz5odyn-2mhdDBunCa139mt&usqp=CAE,2.1,170,NA,NA
-80,Motorola G Pure XT2163-4 Cellphone (Blue 32GB) Unlocked SCRATCHED GLA,PBMedic,$31.51,31.51,· Was $42.87,$8.60 delivery,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRkC93balaQUP7Z--h69YsM4wSgsH9PJDyNWLsKmNzczHZMRfzIrksSjD0vocCIkTzIrfw33_M&usqp=CAE,NA,NA,4.8,13
-81,Samsung Galaxy A15 (A155M) 128GB/6GB RAM GSM Unlocked International Version (New ...,Wireless Place,$142.00,142.0,$199.99,Free delivery by Mon Apr 29,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTFzIv-wCzoH-disn2rqp8Ndhi8UJNhQz7aW1D1yOSGcd6S2AdYSR9TMP2wfKhi0eevDabwxIMp&usqp=CAE,4.3,2694,NA,NA
-82,Google Pixel 7 128GB Obsidian (TMobile),Macy's,$369.00,369.0,NA,Free delivery by May 7 & Free 30-day returns,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQfN375l_I5UB0BX6scB9DbYa3Pm_osWzTVVORERAPEcl6HQgyKam9uggQECWV35RtwcGmJvT8_&usqp=CAE,4.2,3931,4.4,485
-83,ACCOF C23 Cell Phone Unlocked with Pen 6.8" FHD+ 120Hz 6GB+256GB Android 13 ...,Amazon - Seller,$138.21,138.21,NA,Free delivery,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSXPtqHUyrQz-X65rnKBnwn2SJrr9v0-n4axFl4Vbxc3NM9-nepc0j2j0BkDqglKUbnOC1IOJVT&usqp=CAE,NA,NA,NA,NA
-84,Samsung Galaxy A21 128GB Black,CellularCountry,$179.99,179.99,NA,Delivery by Sat Apr 27,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTz0M9RUb6jHloqIN5TBcTTKMyOF5qJGHwXQnnZVNXQzVR935VzzNzIn075QNED8EJNQxHd6kE&usqp=CAE,NA,NA,3.0,16
-85,Samsung Galaxy A23 5G A236m 128GB GSM Unlocked Smartphone - Blue,Adorama,$259.99,259.99,NA,Free delivery,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRluxOS5mnXSSvjaDXHD38SvdAzvzlYGB2SZjVoHMNjw7Z_dKwKktd3AkzmPc6sGPwzxmm2dubJZg&usqp=CAE,4.4,4764,4.6,611
-86,Unihertz Jelly 2e New Choice for A Mini Phone Android 12 4G Unlocked Smartphone ...,Unihertz,$149.99,149.99,$169.99,Free delivery,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRYolF74unFRtjLVVgY9Y3oMQpuE9qEmuj7unsMRtJx1LtJfABOySf2fX6BG7nM2Qs_6Ns_NeU&usqp=CAE,4.6,26,NA,NA
-87,OnePlus Nord N20 SE (Blue Oasis 4GB RAM 64GB Storage) Smartphone,Design Info,$138.06,138.06,NA,Delivery by Mon Apr 29 · Free 7-day returns,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTEpd4fSkxMCvmfNGTOXUCx6_jX3FEUinBE_8ZV-Y9l6zVsmgP0sZlN-gw5_XW4rlJ2Jh0WvlA&usqp=CAE,4.1,579,NA,NA
-88,Motorola moto g stylus - 64 GB - Midnight Blue - Unlocked,Motorola - United States,$129.99,129.99,$199.99,Free delivery & Free 30-day returns,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSshLt3LugFBYg2wLU69BqIpaHE6EaDgW7HN-Au8wslxkursjTwG7bAYZfDJTik-FHNsaXg6ezD&usqp=CAE,4.3,612,4.1,79
-89,Google Pixel 7A 128GB Charcoal Verizon Smartphone - 12 Months Warranty,radio.hospital,$299.99,299.99,NA,Free delivery by Mon Apr 29,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR2zylIOd0uiezlopQA2g9XSi-jh-OiGy7o6xBJvDjVSSAjBFI&usqp=CAE,4.3,1366,NA,NA
-90,Apple iPhone 12 Pro Max - 128 GB - Silver - T-Mobile,Swappa,$435.00,435.0,NA,Free delivery,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTiEezBpwut0jlkc5DunuzuYTyktpJYFFmNj21zYXK8vVj8DfGgf8UBFCfX5A&usqp=CAE,4.6,10966,4.9,6000
-91,Samsung Galaxy A23 5G 64GB Black - Cricket Wireless,Bonanza - Rudra43,$257.39,257.39,NA,$5.00 delivery,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSUMrJK1AebZLsJIlZyse7RAVOlmY4RLtJdq7_WwDZ_kTygEFwkXnCGTeigKZ6BQEYAhsIiF2nHTA&usqp=CAE,3.4,212,NA,NA
-92,Samsung Galaxy S24+ - 256GB - Cobalt Violet - With Contract and 36 Installment ...,AT&T,$0.00,0.0,NA,8.1 mi · In stock,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSq7Dae2hLmL0_d12t_azEtocvTVYhHCU4L6ZVNLc9de-WQpVW0B-JGSl4HUA&usqp=CAE,NA,NA,4.3,NA
-93,Walmart Family Mobile TCL Ion V 32GB Black - Prepaid Smartphone,Walmart,$39.88,39.88,NA,Free delivery & Free 90-day returns,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR8xnGv883CZBaHbA4KbIIqDGqMJA6DKk7oNuA-CrhwvaxMtaQ&usqp=CAE,3.5,42,4.5,1700
-94,OnePlus Ace 3 16GB+512GB 6.78 inch ColorOS 14.0/Android 14 Snapdragon 8 Gen 2 ...,bigupgadgets,$613.66,613.66,NA,$10.88 delivery,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS5SNblWsIYlXfzUSfVr_G4C5z2gNYd1Z5m0oOiIZVPXKxnY7sUNE5FUKpLRUH2O4QvCyZIPPE&usqp=CAE,5.0,2,NA,NA
-95,Samsung Galaxy A21 A215u T-Mobile Unlocked SmartCell-Phone,Cellification,$169.99,169.99,NA,Free delivery by Mon Apr 29,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTi3xSp1NmX3TBC1gf2f7z5Zd6XHjDzAjpcXcNnTDe1TXU2CIaVGuUe0NYB_7zyz9qTA34FZyGy&usqp=CAE,4.3,3181,NA,NA
-96,HTC U Ultra 64GB Factory Unlocked 4G Smartphone - Brilliant Black,ElectronicsForce,$149.00,149.0,NA,Free delivery by Fri Apr 26,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRVlI_SmXJID1lvOnP5b89nW5oE3SvL5-g9Scs11-umr35rs6vDZdWvEokerg&usqp=CAE,4.6,639,4.6,208
-97,ZTE Axon M Z999 64GB Unlocked AT&T Dual-Screen Phone w/ 20MP Camera - Black,Cell2Get,$232.19,232.19,NA,Free delivery by Wed May 1,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTXKQilsognMVZ6vu16aLG8TxWiT1bGp4PV-6cHhyCHtp3CpdsVINbIbQYYjzw&usqp=CAE,4.4,79,4.5,252
-98,Restored Apple iPhone 15 128GB (Cricket Wireless) Black Mtlv3ll/a Excellent Condition,Cricket Wireless,$829.99,829.99,NA,Free delivery & Free 7-day returns,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRRjH2SDc5N7texWCizDv7MK-uscsoJMNvp_disi4fdzUMA1YM&usqp=CAE,3.5,826,3.7,32
-99,Fairphone 4 Dual-SIM 256GB ROM + 8GB Ram (GSM Only | No Cdma) Factory Unlocked 5G ...,Newegg - KICKmobiles,$815.00,815.0,NA,Free delivery,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQjOB8EOapD6W_pHXly6LgrtULP1-Oeiqoig-e1AUaLvFxiR3NPnYlytQ_jpg&usqp=CAE,4.5,1799,NA,NA
-100,Nothing Phone (2A) International Dual Sim Factory Unlocked - 5G Milk / 12GB+256GB,MI 4 Canada,$467.74,467.74,$512.40,Free delivery by Thu May 2,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRdrUJleKqMW03psRy9ZZOIoMM6QBJSiEk9YLdYnLzE-8dm5laFvYAsKQ78jxA&usqp=CAE,4.5,68,NA,NA
+# title,extracted_price,rating
+Hello Toothpaste Fluoride Free Antiplaque + Whitening Natural Peppermint - 4.7 oz,5.29,4.4
+Hello Antiplaque Whitening Toothpaste Fluoride Free Toothpaste for Teeth ...,19.63,0.0
+Hello Kids Fluoride Free Toothpaste Natural Watermelon - 4.2 oz tube,4.97,4.7
+Hello Sanrio Mystery Snack Box,49.99,4.5
+Hello Disc | One Size Reusable Menstrual Disc Galapogos,36.99,4.6
+Hello Activated Charcoal Epic Whitening Fluoride Free Toothpaste Fresh Mint + ...,5.97,4.4
+Hello Bello Premium Baby Diapers Infant Size 1 Honeysuckle 82ct (Select for More ...,19.97,4.0
+Hello Bello Diaper Subscription Bundle Size 1 ( 224 ct) Disposable & Plant-Based,79.99,4.2
+Hello Bello Diapers - Size 4 - 23ct,11.29,4.2
+Hello Diapers Size 2 - New Kids | Color: Yellow | Size: 2,55.0,4.2
+Nest Hello Video Doorbell,229.99,4.6
+Hello Bello Diapers Alphabet Soup Design 1 (8-14 lbs) - 35 diapers,14.22,4.3
+Hello Bello Diaper Subscription Bundle w/ Baby Wipes | Size 4 | 168 Diapers Per ...,79.99,4.2
+Hello Bello Diaper 3 (3-28 lbs) - 28 diapers,13.35,4.4
+Hello Baby Monitor with Camera and Audio 5''Display Pan-Tilt-Zoom Video Baby ...,99.0,0.0
+Hello Bello Club Box Diapers - Goin' Bananas & Tiny Turdles - Size 4 (74ct),25.99,4.1
+3 Pack Hello Bello Diaper Packs Size 1 (35ct ) & Wipes 92 Count,54.0,0.0
+Hello Bello Diapers Alphabet Soup Design 5 (Over 27 lbs) - 20 diapers,16.72,4.4
+Hello Bello Diapers 3 (14-24 lb) - 92 diapers,34.71,3.7
+Hello Greeting Card - Ombre Just Because Card - Long Distance Card - Thinking of ...,4.31,5.0
+Hello Diapers Size 4 - New Kids | Color: Brown | Size: 4,5.59,0.0
+Hello Bello Baby Diapers Size 1 108 ct,25.99,3.6
+Hello Bello Premium Diaper Mystery Box Infant Size 3 200ct (Select for More ...,62.1,4.2
+Hello Bello Diapers Nighttime 5 (27+ lb) - 18 diapers,13.45,4.2
+Hello Bello Diapers 6 (Over 35 lb) - 54 diapers,41.98,3.6
+Hello Klean Purifying Shower Head,86.0,4.4
+Hallmark Thinking of You Card Flowers Just Wanted to Say Hello Card,4.59,5.0
+Hello Bello Size 6 Diaper Pack And Wipes | Color: Pink | Size: Osbb | Soulmates22 ...,18.0,0.0
+Hello Bello Diapers Size 4 23 Count Gaseous States Design 22 37 Pounds,14.88,4.1
+Cute Hello Card Cute Thinking Of You Card Simple Hello Card Simple Stationery ...,5.0,5.0
+E45 New Hello Bello Diapers Alphabet Letters Size 1 Sealed 35 - New Kids | Color ...,12.35,4.1
+Hello Bello Diapers - Alphabet Soup - Size 6 (17ct) Clear,24.48,1.5
+Hello Molly Love Letter to You Maxi Prom Dress Pink Size 4 from Hello Molly,116.0,3.5
+A-Sha Hello Kitty Noodles - 6pk / 20.1oz,9.99,4.6
+Hello Bello Baby Diapers - Size 2 - Teachers Pet - 128 Count (4 Packs of 32),39.14,0.0
+Hello Bello Training Pants Subscription Bundle w/ Baby Wipes|Size X-Large 4T-5T ...,79.99,4.5
+Hello Bello Disposable Diapers Sunny Side Up & Sleepy Sloths Print Mega Value ...,77.22,0.0
+Hi Card Modern Typography Hello Card Thinking Of You Card - 179C,4.5,0.0
+Hello,8.0,0.0
+Hello Thinking of You Pink and Blue Painted Flower Collage Card,3.89,0.0
+Hallmark Thinking of You Card A Good Day Hello Card,2.99,4.9
+Cozy Farm - Hello Bello Alpha Diapers Size 1 8-14 Lbs 35 Count,28.17,0.0
+Hello Bello Diapers Size 3 - 28 ct | CVS,11.29,5.0
+Hello Greeting Card - Just Because Card - Long Distance Card - Thinking of You ...,4.69,5.0
+Hello Diapers Size 1 Bello - New Kids | Color: Grey | Size: 1,25.0,0.0
+(Bundle of 2 )Hello Bello Diapers Alphabet Soup Design Size 3-28 ct,45.28,4.1
+Hello Bello Diapers - Jumbo Pack 1 / Sleepy Sloths by Hello Bello,11.99,4.2
+Hanes Women's Hello Short-Sleeve V-Neck Graphic Tee Hello/Black M,8.75,4.2
+Hello Bello Diapers Nighttime 6 (35+ lb) - 16 diapers,38.82,4.2
+Wedding Parlour by Hello Molly Hello Molly The Penelope Cowl Satin Maxi Dress ...,135.0,3.0
+Hello Thinking of You Paisley Swirl Birds Gold Card,3.89,0.0
+Hello Bello Size 6 Diapers + Wipes - New Kids | Color: Beige | Size: 6,55.0,0.0
+Hello Greeting Card Embossed One of a kind card Just a Hello card hand made ...,3.75,5.0
+Hello Molly White Sand Oasis Maxi Dress Pink Size 2 from Hello Molly,51.0,0.0
+Sparkling Eyeshadow Hello,14.0,0.0
+Hello Bello Diapers Sleepy Sloth Newborn 35 Counts,8.75,4.2
+Hello Molly Admired from All Angles Satin Halter Maxi Dress Pink(S),69.0,3.5
+Hello Bello - Diapr Alph SP Sz2 12/18lb - ea of 1-32 ct,34.77,4.1
+Hello Bello Accessories | Hello Bello Diapers Cactus Size 6 (35+lbs) | Color ...,15.0,0.0
+Cozy Farm - Hello Bello Alpha Diapers Size 2 (32 Count) For Babies 12-18 Lbs,28.24,0.0
+Hello Molly Eternally Evergreen Maxi Dress Orange Size 4 from Hello Molly,96.0,3.0
+[MISE EN SCENE] Hello Bubble Foamy Creamy Bubble Hair Dye Color Dying Kit,25.19,0.0
+Hello Bello - Diaper & Wipe Trial Kit Diapers / 5 by Hello Bello,14.99,0.0
+Hello Bello Diapers - New Kids | Color: Blue | Size: 5,9.0,0.0
+Hello Cards Set of 5 Embossed Thinking of You Greeting Cards Blank Note Cards ...,8.95,5.0
+Hello Molly Style Made Simple Strapless Bandage Midi Dress Purple(S),62.0,0.0
+Crocs Hello Kitty Classic Clog White M11,69.99,3.7
+Hello Molly Admired from All Angles Satin Halter Maxi Dress Sage Size 8 from ...,69.0,3.0
+Hello Bello Alphabet Soup Diapers Size 6 - New Kids | Color: Brown/Yellow | Size: 6,8.0,0.0
+1 Hello Bello Daytime Diaper Packs Deal Sz 1 (35ct ),12.0,4.1
+Hello Molly All The Frills Strapless Midi Dress Black(XS),65.0,0.0
+Hello Bello Club Box Diapers - Goin' Bananas & Tiny Turdles - Size N - 96 ct,62.33,4.1
+Hello Molly Women's Maxi Dress - Orange - XL,90.0,0.0
+Hello Bello Premium Baby Diapers Size 2 I 32 Count of Disposeable Extra ...,47.94,4.1
+Hello How Are You Thinking Of You Just Because Set of 2 Handmade Blank Cards ...,8.5,0.0
+Hello Kitty Surprise Gift Box,83.95,0.0
+Hello Size 1 Bello Brand New Diapers - New Kids | Color: White | Size: 1,10.45,0.0
+Wedding Parlour by Hello Molly Hello Molly The Madeline Cowl Satin Maxi Dress ...,125.0,0.0
+Just A Little Hello Card Thinking Of You Card Just a Little Note Card Just ...,4.57,5.0
+Sanrio Hello Kitty And Friends 8" Soft Plush Doll & My Life As Hello,60.0,0.0
+Hello Molly Women's Maxi Dress - Cream - S,85.0,0.0
+Hello Molly Explore The Colours Maxi Dress Red Size 2 from Hello Molly,96.0,3.6
+Hello Eyeshadow (Single),10.0,0.0
+Hello Molly Explore The Colours Maxi Dress Red(L),96.0,0.0
+Hello Diapers Size 6 Bello - New Kids | Color: Pink | Size: 6,11.36,0.0
+Nighttime Diapers 3 / Sky High by Hello Bello,12.99,4.2
+Hello card handmade greeting card thinking of you card all occasion card ...,3.25,0.0
+Sparkling Eyeshadows Hello Refill,8.0,0.0
+Hello Molly Stand Out Heart Maxi Dress Bright Red(L),106.0,0.0
+Wedding Parlour by Hello Molly Hello Molly The Samara Satin Maxi Dress Champagne ...,135.0,3.3
+Hello Kitty Activity Gift Set Fun With Kitty (puzzle Activities,34.99,0.0
+dyncloves Hello Molly Love Letter to You Maxi Dress Pink(XS),119.0,0.0
+Hello Bello Bath Skin & Hair | Hello Bello Baby Diapers - Newborn Sleepy Sloths ...,64.0,0.0
+Hello Size 1 Bello Brand New Diapers - New Toys & Collectibles | Color: Pink ...,9.93,0.0
+Wedding Parlour by Hello Molly Hello Molly The Opal One Shoulder Satin Maxi Dress ...,145.0,0.0
+Hello Card- Thinking of You Card- Just Because Card- Hi Card- Friend Card,4.95,0.0
+Hello Molly Girl in The Spotlight Halter Neck Satin Maxi Dress Red(M),79.0,0.0
+Laura Geller Hello Radiance Cream Concealer Sand .21oz,12.99,4.4
+Hello Molly Women's Maxi Dress - Red - 4,70.0,0.0
+Hello Molly Dresses | Hello Molly I’ll Be Yours Maxi Dress - Green | Color: Green ...,60.0,0.0
