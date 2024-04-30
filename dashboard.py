@@ -26,7 +26,6 @@ client = serpapi.Client(api_key=google_api)
 # create dataframe
 df = pd.read_csv('scraping.csv')
 
-
 # create dashboard layout
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.layout = dbc.Container([
@@ -169,7 +168,7 @@ def plot_data(selected_cat, data):
   fig_box_plotly = px.box(df, x=selected_cat, labels = {'Value': 'Value', 'Count': 'Number of Items'})
 
 
-  # gray background based on selected category for data table
+  # Gray background based on selected category for data table
   my_cellStyle = {
       "styleConditions": [
           {

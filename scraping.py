@@ -47,7 +47,8 @@ for product in results['shopping_results']:
     except KeyError:
       p_list.append(0)
   
-  # Append the list p_list to the list shopping_results that contains all the products
+  # Append the list p_list to the nested list, shopping_results, 
+  # that contains a list of attributes for each product
   shopping_results.append(p_list)
 
 # Create a data frame from the nested list and add it to a csv file
