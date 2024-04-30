@@ -16,6 +16,8 @@ results = client.search({
   'num': '100',
 })
 
+# End of code from youtube video
+
 # A list of all wanted attributes
 arg_list = ['title',
             'extracted_price',
@@ -36,14 +38,12 @@ for product in results['shopping_results']:
     try:
       if isinstance(product[arg], str):
         product[arg] = product[arg].replace(',', '')
-      # Removes .com from source to make data more uniform
-      if arg == 'source':
-        product[arg] = product[arg].replace('.com', '')
-      elif arg == 'extracted_price':
+      # Converts the extracted price to an integer
+      if arg == 'extracted_price':
         product[arg] = int(product[arg])
         
       p_list.append(product[arg])
-    #  If the attribute is not in the product dictionary, add NA to the list
+    #  If the attribute is not in the product dictionary, appends 0 to the list
     except KeyError:
       p_list.append(0)
   
