@@ -19,44 +19,44 @@ from io import BytesIO
 import matplotlib.pyplot as plt
 
 
-# google api implementation
+# Google api implementation
 google_api = os.environ['google_api']
 client = serpapi.Client(api_key=google_api)
 
-# create dataframe
+# Create dataframe from csv file
 df = pd.read_csv('scraping.csv')
 
-# create dashboard layout
+# Create dashboard layout
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.layout = dbc.Container([
     html.H1("Shopping Tool", className='mb-2', style={'textAlign':'center'}),
 
 
-  # textbox
+  # Textbox
     dbc.Row([
-      dcc.Input(
-          id='query',
-          type= 'text',
-          placeholder="Enter a product you would like to search",
-          required=True,
-          debounce=True
-      )
+      dbc.Col([
+        dcc.Input(
+            id='query',
+            type= 'text',
+            placeholder="Enter a product you would like to search",
+            required=True,
+            debounce=True,
+            style={'width': '100%'}
+        )
+      ]),
+      
+  # Dropdown
+      dbc.Col([
+          dcc.Dropdown(
+              id='category',
+              value='price',
+              clearable=False,
+            options=[{'label': col, 'value': col} for col in df.columns[1:]]
+          )
+      ])
     ]),
 
-
-  # dropdown
-    dbc.Row([
-        dbc.Col([
-            dcc.Dropdown(
-                id='category',
-                value='price',
-                clearable=False,
-              options=[{'label': col, 'value': col} for col in df.columns[1:]]
-            )
-        ], width=4)
-    ]),
-
-  # matplotlib histogram
+  # Matplotlib histogram
     dbc.Row([
         dbc.Col([
             html.Img(id='bar-graph-matplotlib')
@@ -64,7 +64,7 @@ app.layout = dbc.Container([
     ]),
 
 
-    # data table
+    # Data table
     dbc.Row([
       dag.AgGrid(
         id='grid',
@@ -74,20 +74,20 @@ app.layout = dbc.Container([
     ]),
 
 
-    # plotly boxplot
+    # Plotly boxplot
     dbc.Row([
       dcc.Graph(id='bar-graph-plotly', figure={}),
     ])
 ])
 
-# populate table with data, take in textbox info
+# Populate table with data, take in textbox info
 @app.callback(
   Output('grid','rowData'),
   Input('query','value'),
 )
 
 
-# function to create new dataframe based on textbox
+# Function to create new dataframe based on textbox
 def query_csv(query):
   results = client.search({
     'engine': 'google_shopping',
